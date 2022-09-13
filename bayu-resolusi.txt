@@ -2,3 +2,5 @@ Bayu Resolusi
 - Konsisten untuk belajar React.js
 - Konsisten untuk mengulang materi
 - Menyebarkan materi.
+- Harus bisa buat apps.
+- Mencari materi baru
