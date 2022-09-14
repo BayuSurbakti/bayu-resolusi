@@ -8,3 +8,5 @@ Rencana Belajar Bayu
 - Python
 - JS
 - Fundamental Data Structure
+- Python
+- React JS
