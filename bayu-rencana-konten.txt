@@ -4,3 +4,4 @@ Rencana Belajar Bayu
 - PHP Frameworks
 - Python
 - JS
+- Fundamental Data Structure
