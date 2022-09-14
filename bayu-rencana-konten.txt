@@ -2,6 +2,9 @@ Rencana Belajar Bayu
 
 - JavaScript
 - PHP Frameworks
+  -Laracel
 - Python
 - JS
 - Fundamental Data Structure
+- Python
+- React JS
